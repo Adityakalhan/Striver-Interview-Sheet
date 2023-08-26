@@ -1,4 +1,3 @@
 # Striver-Interview-Sheet
-
-- Solutions by Aditya Kalhan from Thapar Institute of Engineering and Technology of Strivers SDE sheet
-- Along with Graph,DP, Binary Search series solutions
+- Solving strivers SDE sheet, and trying to do multiple series provided by him as well.
+- Orignal solutions by Aditya Kalhan from TIET. 
